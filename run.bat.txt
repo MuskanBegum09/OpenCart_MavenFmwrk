@@ -1,0 +1,5 @@
+@echo off
+cd D:\WorkspaceforTestNG\OpenCart_MavenFmwk
+mvn clean install
+mvn test
+pause

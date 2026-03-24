@@ -1,0 +1,20 @@
+13:55:33.219 [main] INFO  testCases.TC1_AccountRegistrationTest - ******starting testcase*******************
+13:55:33.850 [main] INFO  testCases.TC1_AccountRegistrationTest - ******clicked on myaccounte*
+13:55:35.340 [main] INFO  testCases.TC1_AccountRegistrationTest - ******clicked on register***
+13:55:35.355 [main] INFO  testCases.TC1_AccountRegistrationTest - Providing customer details
+13:55:40.132 [main] INFO  testCases.TC1_AccountRegistrationTest - validating expected msg
+13:55:40.307 [main] INFO  testCases.TC1_AccountRegistrationTest - ******finish testcase*******************
+13:56:12.202 [main] INFO  testCases.TC2_LoginTest - ******launch the url testcase*******************
+13:56:15.270 [main] INFO  testCases.TC2_LoginTest - ****stating TC02_loginTest***********
+13:56:19.417 [main] INFO  testCases.TC2_LoginTest - ***finedshed tc2 login test***********************
+13:57:20.743 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\WorkspaceforTestNG\OpenCart_MavenFmwrk\master.xml"
+13:57:33.727 [main] INFO  testCases.TC1_AccountRegistrationTest - ******launch the url testcase*******************
+13:57:34.454 [main] INFO  testCases.TC1_AccountRegistrationTest - ******starting testcase*******************
+13:57:34.992 [main] INFO  testCases.TC1_AccountRegistrationTest - ******clicked on myaccounte*
+13:57:36.367 [main] INFO  testCases.TC1_AccountRegistrationTest - ******clicked on register***
+13:57:36.385 [main] INFO  testCases.TC1_AccountRegistrationTest - Providing customer details
+13:57:40.636 [main] INFO  testCases.TC1_AccountRegistrationTest - validating expected msg
+13:57:40.764 [main] INFO  testCases.TC1_AccountRegistrationTest - ******finish testcase*******************
+13:57:50.096 [main] INFO  testCases.TC2_LoginTest - ******launch the url testcase*******************
+13:57:50.919 [main] INFO  testCases.TC2_LoginTest - ****stating TC02_loginTest***********
+13:57:56.835 [main] INFO  testCases.TC2_LoginTest - ***finedshed tc2 login test***********************
